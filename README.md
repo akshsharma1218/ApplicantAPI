@@ -17,7 +17,9 @@ It also have filtering and pagination in the applicant listing api.
 
 # Routes :
 
-Home page or list page : `http://127.0.0.1:8000/` </br></br>
+Home page or list page : `http://127.0.0.1:8000/` </br>
+Each page have at max 5 enteries in list page.</br>
+</br>
 Particular applicant retrive/update/delete : `http://127.0.0.1:8000/<id>`  &emsp;&emsp;&emsp; # eg : `http://127.0.0.1:8000/1`
 
 # Preview
